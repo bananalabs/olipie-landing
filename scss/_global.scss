@@ -16,7 +16,8 @@ body {
 // Content Section
 .content-section {
   padding-top: 7.5rem;
-  padding-bottom: 7.5rem;
+  height: 100%;
+  background-color: #f4cb42
 }
 
 .content-section-heading {
@@ -36,7 +37,8 @@ h3,
 h4,
 h5,
 h6 {
-  font-weight: 700;
+  font-weight: 500;
+  color: #4B4949
 }
 
 .text-faded {

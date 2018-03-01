@@ -86,20 +86,8 @@
   text-align: center;
 
   color: $white;
-  background: fade-out($gray-800, .5);
-
+  
   line-height: 50px;
 
   z-index: 999;
-  &:focus,
-  &:hover {
-    color: $white;
-  }
-  &:hover {
-    background: $gray-800;
-  }
-  &.active {
-    // background-color: $white;
-    // color: $gray-900;
-  }
 }
